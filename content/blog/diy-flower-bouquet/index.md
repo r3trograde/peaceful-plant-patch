@@ -95,5 +95,3 @@ Once you’ve created your DIY flower bouquet, it’s time to show it off! Here 
 ### Conclusion
 
 Creating your own DIY flower bouquet can be a lot of fun. Not only will you get the satisfaction of growing something beautiful, but you’ll also have the freedom to customize it to your own tastes. With a few essential tools and supplies, and a little bit of know-how, you’ll be well on your way to creating a stunning bouquet that you can be proud of. So, what are you waiting for? Get started on your own DIY flower bouquet today and start your exciting journey to creating something beautiful!
-
-Shop now for all the tools and supplies you need to get started on your DIY flower bouquet. From pots and soil to fertilizers and pruning shears, you’ll find everything you need to create a beautiful bouquet that you can be proud of.

@@ -38,7 +38,7 @@ Cottage garden themes are abound, decide if you would like to focus on a particu
 
 #### Testing the Soil
 
-Before you begin planting, it's important to test your soil. This will help you determine its pH level and nutrient content, which will guide your decision-making when it comes to what plants to choose and what kind of fertilizer or amendment to use. You can purchase soil testing kits from a garden center or have a soil sample analyzed by your local cooperative extension office.
+Before you begin planting, [it's important to test your soil.](https://amzn.to/3GyxRKI) This will help you determine its pH level and nutrient content, which will guide your decision-making when it comes to what plants to choose and what kind of fertilizer or amendment to use. You can purchase soil testing kits from a garden center or have a soil sample analyzed by your local cooperative extension office.
 
 #### Adding Organic Matter
 
@@ -122,7 +122,7 @@ Plants also have different feeding needs, so it's important to be aware of this 
 
 #### Organic vs Inorganic Fertilizers
 
-Organic fertilizers are made from natural materials such as bone meal, blood meal, and fish emulsion. Organic fertilizers tend to release their nutrients slowly and therefore do not have to be applied as often. Inorganic fertilizers, which are synthesized chemically, are typically quicker to release their nutrients, but may have a negative impact on the environment. If you prefer an organic approach, compost or homemade organic fertilizers like comfrey or nettle tea are a great choice.
+[Organic fertilizers](https://amzn.to/3Xob37b) are made from natural materials such as bone meal, blood meal, and fish emulsion. Organic fertilizers tend to release their nutrients slowly and therefore do not have to be applied as often. Inorganic fertilizers, which are synthesized chemically, are typically quicker to release their nutrients, but may have a negative impact on the environment. If you prefer an organic approach, compost or homemade organic fertilizers like comfrey or nettle tea are a great choice.
 
 #### pH Levels
 
@@ -134,11 +134,11 @@ Watering and feeding properly will help ensure that your plants have the right c
 
 #### Pruning 
 
-Pruning is an important part of maintaining a cottage garden. Pruning helps to keep plants in shape, remove dead or diseased wood, and encourage new growth. Different plants have different pruning needs, so be sure to research the specific needs of each plant in your garden. Prune after flowering is a general rule of thumb.
+[Pruning is an important part](https://amzn.to/3X40cj9) of maintaining a cottage garden. Pruning helps to keep plants in shape, remove dead or diseased wood, and encourage new growth. Different plants have different pruning needs, so be sure to research the specific needs of each plant in your garden. Prune after flowering is a general rule of thumb.
 
 #### Mulching
 
-Mulching is another important part of maintaining a cottage garden. Mulch helps to keep the soil moist, control weeds, and regulate soil temperature. Mulch can be made from a variety of materials such as straw, bark, or leaves. Spread a 2-4 inch layer of mulch around your plants, taking care not to pile it up against the base of the stems.
+[Mulching is another important part](https://amzn.to/3Gyt1wX) of maintaining a cottage garden. Mulch helps to keep the soil moist, control weeds, and regulate soil temperature. Mulch can be made from a variety of materials such as straw, bark, or leaves. Spread a 2-4 inch layer of mulch around your plants, taking care not to pile it up against the base of the stems.
 
 #### Weeding
 

@@ -14,7 +14,7 @@ module.exports = {
       name: `Graham White`,
     },
     description: `A blog for all things gardening and landscaping.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://www.peacefulplantpatch.com/`,
     social: {
       twitter: `gw07794`,
     },
