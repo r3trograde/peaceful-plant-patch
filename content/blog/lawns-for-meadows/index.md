@@ -146,10 +146,6 @@ Before converting a lawn to a meadow, it's important to check if any permits are
 
 ## Conclusion
 
-#### Summary of benefits and challenges
-
 Meadows offer a variety of benefits over traditional lawns, including reduced carbon footprint, increased biodiversity, cost savings, and aesthetic appeal. They do come with their own set of challenges, such as the need to control invasive species, pests and diseases, and weather-related issues.
-
-#### Final thoughts and recommendations
 
 Despite the challenges, meadows can be a beautiful and sustainable addition to any landscape. With proper planning, design, and maintenance, a meadow can provide a low-maintenance, natural landscape that will thrive for years to come.

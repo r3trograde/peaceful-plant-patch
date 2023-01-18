@@ -104,10 +104,6 @@ When planning lighting, consider the safety and the ambiance that you want to cr
 
 ## Conclusion
 
-#### Summary
-
 A Mediterranean-style garden is characterized by its use of native plants, warm colors, and a relaxed, informal design. These gardens are ideal for warm climates and require minimal maintenance. They provide an inviting outdoor space for entertaining and relaxation, and the use of natural materials such as stone, terracotta and wood gives a rustic and authentic feel.
-
-#### Final Tips and Considerations
 
 When designing a Mediterranean-style garden, pay attention to the climate, consider the use of native plants, and choose elements that complement the overall design. Be sure to also include a variety of textures and colors to create visual interest, and incorporate comfortable seating, dining and other functional areas. Finally, think about the ambiance that you want to create and use lighting and accessories to highlight important features of the garden. Remember, a Mediterranean garden is a place where you can enjoy the warm weather, relax and entertain, so make sure you design a garden that fits your needs and preferences.

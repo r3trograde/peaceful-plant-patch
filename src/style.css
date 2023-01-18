@@ -58,6 +58,11 @@
   --color-heading: #1a202c;
   --color-heading-black: black;
   --color-accent: #d1dce5;
+  /* Colours */
+  --color-grass: #00ff00;
+  --color-flower: #ffb6c1;
+  --color-soil: #8B4513;
+  --color-sky: #87CEEB;
 }
 
 /* HTML elements */
@@ -89,6 +94,10 @@ hr {
   background: var(--color-accent);
   height: 1px;
   border: 0;
+}
+
+small {
+  color: rgb(87, 87, 221);
 }
 
 /* Heading */
@@ -228,7 +237,7 @@ table thead tr th {
 /* Link */
 
 a {
-  color: var(--color-primary);
+  color: var(--color-sky);
 }
 
 a:hover,
