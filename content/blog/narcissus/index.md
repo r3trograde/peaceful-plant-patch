@@ -1,7 +1,7 @@
 ---
-title: "Caring for Narcissus Plants: From Basic Needs to Propagation, Pests and Display"
+title: "Narcissus Care: The Secret to Beautiful Blooms"
 date: "2023-01-20"
-description: "Learn how to care for Narcissus plants and make them thrive with this comprehensive guide. From basic care requirements to propagation, pests and diseases prevention, and display tips. Get the best tips to keep your daffodils blooming for years to come."
+description: "Learn how to care for Narcissus plants, including basic needs, propagation, pests & display. Discover the beauty and versatility of these spring bulbs."
 ---
 
 ![Example of a Narcissus Plant](./narcissus_1.png)

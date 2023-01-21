@@ -1,7 +1,7 @@
 ---
-title: "The Ultimate Guide to Swapping Lawns for Meadows: Benefits, How-to, and Maintenance Tips"
+title: "Meadow Magic: How to Replace Your Lawn"
 date: "2023-01-14"
-description: "Discover the benefits of swapping your traditional lawn for a meadow and learn how to convert your lawn with tips on choosing the right plants, maintenance, and legal considerations."
+description: "Discover the benefits of swapping lawns for meadows. Learn how-to, maintenance tips and create a beautiful, low-maintenance, sustainable landscape."
 ---
 
 ![An example of a beautiful meadow](./meadow_1.png)

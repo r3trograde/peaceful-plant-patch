@@ -1,7 +1,7 @@
 ---
-title: "Explore the Beauty of Dieffenbachia Seguine: A Complete Guide"
+title: "Dieffenbachia Seguine: A Complete Guide to Care and Display"
 date: "2023-01-17"
-description: "Learn about the unique characteristics and care requirements of the popular dieffenbachia seguine variety. Find out how to distinguish it from other dieffenbachia types and create stunning indoor displays."
+description: "Learn how to care and display your Dieffenbachia Seguine with our comprehensive guide."
 ---
 
 ![Dieffenbachia house plant watercolor painting](./Dieffenbachia-1.png)

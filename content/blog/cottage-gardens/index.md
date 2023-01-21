@@ -1,7 +1,7 @@
 ---
-title: "Creating a Beautiful Cottage Garden: Tips and Tricks"
+title: "Design Your Dream Cottage Garden: Tips and Tricks"
 date: "2023-01-11"
-description: "Learn how to design and maintain a picturesque cottage garden with this step-by-step guide. Discover the best location, soil preparation, plant selection, hardscaping, and feeding techniques. Get tips on attracting wildlife and creating a garden that's full of color and texture all year round."
+description: "Expert tips & tricks to create a beautiful cottage garden. Learn best plants, design & maintenance for a stunning outdoor space."
 ---
 
 ![An Example Cottage Garden](./main-cottage-garden.png)

@@ -1,7 +1,7 @@
 ---
-title: "Designing a Mediterranean-Style Garden: Tips, Considerations, and Benefits"
+title: "The Secret to a Stunning Mediterranean Garden"
 date: "2023-01-11"
-description: "Create a stunning Mediterranean-style garden in your backyard with our helpful tips on plant selection, water features, walkways, and more. Learn how to design and furnish the perfect outdoor space to enjoy with family and friends."
+description: "Create a Mediterranean-style garden with expert tips on design, plants, and benefits. Learn how to bring the warmth and charm of the Mediterranean to your garden."
 ---
 
 ![An example of a Mediterranean-style garden.](./main-mediterranean-style-garden.png)

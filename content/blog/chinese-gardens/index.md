@@ -1,7 +1,7 @@
 ---
-title: "Creating a Chinese Garden Style in Your Own Backyard"
+title: "Bring the Serenity of a Chinese Garden to Your Backyard"
 date: "2023-01-17"
-description: "Learn how to create a traditional Chinese garden in your own backyard, from selecting the right plants and elements to incorporating design principles and symbolism. Whether you have a small courtyard or a large backyard, this guide will help you create a serene and harmonious space."
+description: "Bring the beauty of Chinese gardens to your backyard. Learn tips for design, plants, and elements to create a serene and authentic Chinese garden style."
 ---
 
 ![Artwork of a Chinese Garden](./Chinese-garden-1.png)
